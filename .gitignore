@@ -1,0 +1,5 @@
+urls.db
+urls.db-wal
+urls.db-shm
+__pycache__/
+*.pyc
